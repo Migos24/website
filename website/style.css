@@ -1,9 +1,7 @@
-.home-bg {
-    background-image: url(mike.png);
-    background-repeat: no-repeat; 
+ 
     
     
-}
+
 .products-bg {
 
     background-image: url(them.jpg);
@@ -473,3 +471,5 @@ margin-left: auto;
     width: fit-content;
     
 }
+
+
